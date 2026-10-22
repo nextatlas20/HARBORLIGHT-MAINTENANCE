@@ -1,0 +1,11 @@
+{"check_id":"IN-201","beacon_id":"HB-101","inspected_at":"2100-06-11T08:00:00Z","outcome":"pass","revision":1}
+{"check_id":"IN-202","beacon_id":"HB-102","inspected_at":"2100-06-10T09:30:00Z","outcome":"fail","revision":1}
+{"check_id":"IN-202","beacon_id":"HB-102","inspected_at":"2100-06-10T09:30:00Z","outcome":"pass","revision":2}
+{"check_id":"IN-203","beacon_id":"HB-107","inspected_at":"2100-06-12T10:15:00Z","outcome":"pass","revision":1}
+{"check_id":"IN-204","beacon_id":"HB-107","inspected_at":"2100-06-12T10:15:00Z","outcome":"fail","revision":1}
+{"check_id":"IN-205","beacon_id":"HB-103","inspected_at":"2100-06-13T10:00:00Z","outcome":"pass","revision":1}
+{"check_id":"IN-206","beacon_id":"HB-106","inspected_at":"2100-06-11T07:00:00Z","outcome":"pass","revision":1}
+{"check_id":"IN-207","beacon_id":"HB-104","inspected_at":"2100-06-01T07:00:00Z","outcome":"unknown","revision":1}
+{"check_id":"IN-208","beacon_id":"HB-101","inspected_at":"2100-06-12T19:00:00Z","outcome":"fail","revision":1}
+{"check_id":"IN-209","beacon_id":"HB-109","inspected_at":"2100-06-10T10:00:00Z","outcome":"pass","revision":true}
+not json

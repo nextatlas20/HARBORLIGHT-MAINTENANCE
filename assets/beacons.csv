@@ -1,0 +1,11 @@
+beacon_id,zone,model,service_due,criticality,state,revision
+HB-101,North Pier,Luma-4,2100-06-12,5,active,1
+HB-101,North Pier,Luma-4,2100-06-12,5,active,2
+HB-102,South Bay,Luma-3,2100-06-10,4,active,1
+HB-103,North Pier,Luma-2,2100-06-18,3,active,1
+HB-104,East Reach,Luma-4,2100-06-09,5,active,1
+HB-105,South Bay,Luma-1,2100-06-11,2,retired,1
+HB-106,East Reach,Luma-3,2100-06-15,1,active,1
+HB-107,North Pier,Luma-4,2100-06-10,4,active,1
+broken,No Zone,Luma-2,2100-06-10,3,active,1
+HB-108,,Luma-2,2100-06-10,3,active,1
