@@ -1,0 +1,4 @@
+position,beacon_id,zone,model,service_due,criticality,last_check_at,last_outcome,reason
+1,HB-104,East Reach,Luma-4,2100-06-09,5,none,none,invalid_latest_check
+2,HB-101,North Pier,Luma-4,2100-06-12,5,2100-06-12T19:00:00Z,fail,latest_check_failed
+3,HB-107,North Pier,Luma-4,2100-06-10,4,2100-06-12T10:15:00Z,fail,latest_check_failed
